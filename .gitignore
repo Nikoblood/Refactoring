@@ -1,0 +1,11 @@
+/.idea
+.DS_Store
+cc.sh
+/.vscode/
+composer.phar
+/vendor/
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
